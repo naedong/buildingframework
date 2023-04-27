@@ -14,5 +14,5 @@ dependencyResolutionManagement {
 }
 rootProject.name = "MMAProjectVer1.0"
 include(":app")
-include(":data")
-include(":domain")
+include(":datamodule")
+include(":common")
